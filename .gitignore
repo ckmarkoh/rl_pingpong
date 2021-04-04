@@ -1,4 +1,6 @@
 *.json
+results
+*.pkl
 *.log
 *.pyc
 *.idea
